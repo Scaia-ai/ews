@@ -3,3 +3,5 @@ pyodbc
 langchain
 langchain_community
 langchain_openai
+openai
+pandas
